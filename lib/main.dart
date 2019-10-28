@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Product Details',
       theme: ThemeData(fontFamily: 'Montserrat'
        ),
-      home: MyHomePage(title: 'Product*s Details'),
+      home: MyHomePage(title: 'Product Details'),
     );
   }
 }
